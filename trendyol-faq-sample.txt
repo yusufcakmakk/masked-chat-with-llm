@@ -1,0 +1,397 @@
+Ücret iadem ne zaman yapılır?
+1. İptal ettiğiniz ürünün ücret iadesi bankanıza bağlı olarak değişkenlik gösterebilir. Bu süre yaklaşık 1 haftayı bulabilir.
+
+2. İade ettiğiniz ürünün ücret iade süreci aşağıdaki gibidir;
+
+• Ürün satıcıya ulaştıktan sonra en geç 48 saat içerisinde iade şartlarına uygunluğu kontrol edilir.
+
+• Ürün iade şartlarına uygunsa, iadeniz onaylanır ve ücret iadeniz bankanıza bağlı olarak 2-10 iş günü içerisinde ödeme yapmış olduğunuz kartınıza yansır.
+
+• Ürün iade şartlarına uygun değilse adresinize geri gönderilir.
+
+
+Not:
+
+• Bankanıza ücret iadesi yapıldığında üyelik e-posta adresinize bilgilendirme mesajı gönderilir. Tutarın kartınıza/hesabınıza yansıma süresi bankanıza bağlıdır.
+
+• Banka kartına yapılan iadenlerin hesabınıza yansıma süresi daha uzundur.
+
+• Bankanızdan ücret iadesi kontrolü yapmak için “Hesabım” > “Siparişlerim“ adımından referans numaranızı görüntüleyebilirsiniz.
+
+• Taksitli yapılan alışverişlerin ücreti bankaya tek seferde ödenir ancak bankanız bu tutarı kredi kartınıza taksitli bir şekilde iade eder.
+
+
+
+Siparişimin teslimat adresini veya alıcı adını değiştirebilir miyim?
+• Ana sayfada yer alan "Hesabım" bölümünde bulunan “Siparişlerim“ sekmesinden siparişinizin durumunu kontrol edin.
+
+
+• Eğer siparişiniz “Siparişiniz Alındı” ya da “Siparişiniz Hazırlanıyor” statüsünde ise aşağıdaki kanaldan talebinizi bize iletin.
+
+“Hesabım” bölümünde “Yardım“ sekmesinde yer alan “Canlı Yardıma Bağlan” butonu
+
+• Eğer siparişiniz “Kargoya Verildi” statüsündeyse alıcı ve/veya adres değişikliğini kargo firmaları da sadece belli bir süre içerisinde yapabilir. Değişiklik talebinizi iki şekilde iletebilirsiniz.
+
+
+1. Kargonun gönderildiği kargo firması ile irtibata geçerek
+
+2. “Hesabım” bölümünde “Yardım“ sekmesinde yer alan “Canlı Yardıma Bağlan” butonu
+
+
+
+Siparişim ne zaman gelir?
+• Satın aldığınız ürünler Hesabım->Siparişlerim->Sipariş Detay sayfasında belirtilen teslimat tarih aralığında teslim edilir.
+
+
+• Üründe “Hızlı Teslimat” etiketi bulunuyorsa siparişiniz en geç bir sonraki iş günü kargoya verilir. “Bugün Kargoda” etiketi bulunuyorsa siparişiniz aynı gün içerisinde kargoya verilir.
+
+
+• Sipariş dağıtıma çıktığında kargo firması tarafından SMS ile bilgilendirilirsiniz.
+
+
+• Kargoya verildikten sonra siparişinizin kargo aşamalarını Hesabım->Siparişlerim->Sipariş Detay sayfasında bulunan "Kargom Nerede?" linkinden takip edebilirsiniz.
+
+
+
+Yanlış ürün sipariş ettiyseniz veya fikrinizi değiştirdiyseniz ürünlerinizin kargo hazırlıkları başlamadan önce aşağıdaki şekilde kolayca iptal edebilirsiniz.
+
+1. “Siparişlerim” > “Detaylar/Sipariş Detayı” > “Sipariş İptal” adımlarını takip ederek.
+
+2. “Hesabım” bölümünde yer alan “Yardım” adımından “Canlı Yardıma Bağlan” a tıkladığınızda açılan sayfada “İptal ve İade” yi seçerek.
+
+
+Ürünleriniz kargolanmak üzere hazırlanmaya başlandıysa (faturanız kesildiyse) veya kargoya verildiyse iptal edilemez. Bu durumda ürünü teslim aldığınızda iade edebilirsiniz.
+
+
+İPUCU:
+
+Ücret iade işlemleri 2 iş günü içerisinde tamamlanır. İadeniz tamamlanıp bankanıza iadeniz yapıldığında email ile bilgilendirilirsiniz.
+
+
+
+
+Kampanyadan yararlandığım bir siparişte iptal ya da iade yaparsam kampanya iptal olur mu?
+• İptal ya da iade gerçekleştirildiği halde kampanya koşulları sağlanmaya devam ediyorsa kampanya iptal olmaz.
+
+• İptal ya da iade sonrası siparişte kalan ürünler kampanya şartlarını sağlamaya yetmiyorsa, ücret iadesi, iptal ya da iade edilen ürünler için kampanyadan gelen indirim tutarı düşülerek yapılır.
+
+
+
+Elite üyeliğin ayrıcalıkları nelerdir?
+• 100 TL ve üzeri tüm alışverişlerde Kargo Bedava
+
+
+• Trendyol Elite Müşteri Hizmetleri
+
+
+
+Gel Al Noktası nedir?
+• Gel Al noktaları, kargonuzu evinizde beklemek zorunda kalmadan kolay ve güvenli şekilde kendiniz teslim alabileceğiniz noktalardır.
+
+• Siparişini verirken Gel Al noktası seçeneği üzerinden sana en yakın noktayı seçip, siparişin ulaştığında sipariş detay sayfanda yer alan veya gelen SMS'teki şifre ile ürününü rahatça alabilirsin.
+
+• Siparişin Gel Al noktasına ulaştıktan sonra 5 gün içerisinde alman gerekir. 5 gün içerisinde teslim alınmayan ürünler, satıcıya iade olarak geri gönderilir.
+
+• Eğer şifrene sipariş detay sayfasından veya SMS'ten ulaşamıyorsan;
+
+o Kargo otomatı ise otomat üzerinden şifreni yenileyebilirsin.
+
+o Esnaf noktası ise nokta yetkilisi aracılığıyla şifreni yenileyebilirsin.
+
+o Kargo şubesi ise şubeye gitmeden önce şifre gönderilmemektedir, şube personeli sizi yönlendirecektir.
+
+Daha fazla bilgi için linkine tıklayabilirsin.
+
+
+
+
+Ürün veya siparişim ile ilgili taleplerimi/sorularımı nasıl iletebilirim?
+Ürün özellikleri ile ilgili olan sorularınızı ürünün altında yer alan Satıcı Soruları bölümünü tıklayarak sorabilir, siparişiniz ile ilgili sorularınızı veya taleplerinizi Sipariş Detay'da yer alan Soru Sor bölümünden iletebilirsiniz.
+
+
+
+
+Nasıl Elite olurum?
+Elite üye olabilmek için son 3 ay içerisinde toplamda 2500 Trendyol Puan toplamış olmalısın. Trendyol Puan'lar aşağıdaki şekilde kazanılabilir.
+
+• Her 150 TL'lik Trendyol alışverişinde 15 Trendyol Puan,
+
+• Her 150 TL'lik Trendyol Yemek alışverişinde 30 Trendyol Puan,
+
+• Her 150 TL'lik Trendyol Hızlı Market alışverişinde 30 Trendyol Puan,
+
+• Her 150 TL'lik Dolap alışverişinde 30 Trendyol Puan,
+
+• Onaylanan her yorumda 10 Trendyol Puan,
+
+• Onaylanan her fotograflı yorumda 20 Trendyol Puan hesabına yüklenir.
+
+Ayrıca, 500 Trendyol Puan'a ulaştığında 50 TL, 1500 Trendyol Puan'a ulaştığında ise 100 TL'lik indirim kuponuna hak kazanırsın.
+
+Önemli Not:
+
+Her siparişte kazanabileceğin maksimum Trendyol Puan '100' ile sınırlıdır.
+
+Onaylanan siparişlerini ve Trendyol Puan’larını 'Elite sayfasından' takip edebilirsin.
+
+
+
+Sağlık beyanı nedir?
+Sağlık beyanı, insan sağlığına doğrudan veya dolaylı olarak faydalı olduğunu yahut hastalıklara veya belirtilerine karşı etkili olduğunu, koruduğunu, tedavi ettiğini belirten, ileri süren veya ima eden her türlü ifadedir. (Metabolizmayı hızlandırır, sindirim sistemini düzenler, kolajen sentezini sağlar vb).
+
+
+
+Aldığım ürünleri nasıl iade edebilirim?
+1. "Hesabım" > "Siparişlerim" > "Detaylar" > "İade Kargo Kodu Oluştur" adımlarını takip edip iade edilecek ürün ve iade nedenini seçin. Aynı üründen birden fazla satın aldıysanız iade edilecek ürün adedini de seçin.
+
+2. İade etmek istediğiniz ürünlerin uygunluğuna göre size önerilen iade seçeneklerinden birini seçin.
+
+3. Kargo seçiminizi yapın.
+
+4. Ekranda çıkan iade kargo kodunu not alın. İade kargo kodunuza siparişlerim sayfasından ve e-posta adresinize gönderilen bilgilendirme mesajından da ulaşabilirsiniz.
+
+5. İade kodu aynı olan ürünleri faturasıyla beraber aynı pakete koyun ve paketin sağlam olduğundan emin olun. İade kodu farklı olan ürünler aynı kargoya verilse bile farklı paketler halinde verilmelidir.
+
+• Faturanız yoksa aşağıdaki bilgileri boş bir kağıda yazıp iade paketinin içine koyup iadenizi yapabilirsiniz.
+
+o Ad Soyad:
+
+o Sipariş No:
+
+o İade Nedeni:
+
+6. Seçtiğiniz iade yöntemine göre 7 gün içinde paketinizi kargo şubesine veya seçtiğiniz gel al noktasına teslim edin. Eğer adresten iade seçeneğini seçtiyseniz paketinizi randevu gününde adresinize gelecek görevliye teslim edin. 7 günü geçirdiğiniz durumda yeniden iade kargo kodu almanız gerekir.
+
+
+
+
+İade politikanız nedir?
+1-Ürünün iade süresi elinize ulaştıktan sonra 15 gündür.
+
+2- İadenin kabul edilebilmesi için ürünün;
+
+- Paketi hasar görmemiş ve kullanılmamış olması
+
+- Tüm aksesuarları ve orijinal kutusu ile beraber iade edilmesi gerekmektedir.
+
+3-Aşağıdaki ürünlerin iadesinin kabul edilebilmesi için ürünün ambalajı açılmamış, denenmemiş, bozulmamış ve kullanılmamış olması gerekmektedir.
+
+• Sağlık ve hijyen açısından uygun olmayan ürünler (Kozmetik ve kişisel bakım ürünleri,parfüm, epilatör, tıraş makinesi, kulaklık, iç giyim ürünleri, mayo, bikini vb.)
+
+• Kopyalanabilir yazılım ve programlar (DVD, VCD, CD, kasetler vb.)
+
+• Kitap ve kırtasiye sarf malzemeleri (toner, kartuş, şerit vb.)
+
+4- Tek kullanımlık ürünlerin ve hızlı bozulan veya son kullanma tarihi geçme ihtimali olan ürünlerin iadesi kabul edilmemektedir.
+
+5- Kurulum gerektiren ürünler yetkili servis bilgisi olmadan açılırsa iade kapsamı dışında kalır.
+
+- Beyaz eşya (buzdolabı, bulaşık makinesi, çamaşır makinesi)
+
+- Fırınlar (gaz, elektrik, mikrodalga)
+
+- Set üstü ocaklar, aspiratörler, ütüler, vantilatör, ısıtıcılar, soğutucular
+
+- Televizyon
+
+• Bu ürünlerin kutu açılışında herhangi bir hasar/kusur tespit edilirse, ürünü iade edebilmek için yetkili servis çalışanlarına durum tespit tutanağı doldurtmanız gerekir (Tutanakta sorunun detalı açıklandığından emin olunuz!). Bu belgeyi aldıktan sonra ürünü iade edebilirsiniz.
+
+6- Finansal piyasalardaki dalgalanmalara bağlı olan ve satıcının kontrolünde olmayan, fiyatı değişiklik gösteren mal veya hizmetler için cayma hakkı kullanılamaz. (altın, gümüş vb.)
+
+
+
+
+İade için benden herhangi bir ücret alınacak mı?
+• İadelerinizi seçtiğiniz herhangi bir iade yöntemi ile ÜCRETSİZ gönderebilirsiniz.
+
+• Kargo bedava kampanyasıyla oluşturulan siparişler için iade sonrası kalan tutar kampanya şartını sağlamazsa iade edilecek ürün bedelinden teslimatınızın kargo ücreti düşebilir.
+
+
+
+Farklı teslimatlarımı tek seferde iade edebilir miyim?
+• Her teslimatın kendi iade kodu vardır ve sadece bu iade koduna ait ürünlerle bir paket hazırlanması gerekir.
+
+• Farklı iade koduna ait ürünler aynı anda aynı iade yöntemiyle iadeye gönderilse bile farklı paketler hazırlanmalıdır.
+
+• Sipariş detay sayfasından oluşturduğunuz iade kodunun hangi ürünler için olduğunu görebilirsiniz.
+
+
+
+İade kargo kodumu kaybettim, ne yapabilirim?
+İade kargo kodunuza:
+
+• trendyol.com ve mobil uygulamalarda yer alan "Hesabım" bölümü "Siparişlerim" sekmesinden
+
+• İade talebi oluşturduktan sonra üyelik mail adresinizde gönderilen bilgilendirme mesajından ulaşabilirsiniz.
+
+
+
+Ücret iadem ne zaman yapılır?
+1. İptal ettiğiniz ürünün ücret iadesi bankanıza bağlı olarak değişkenlik gösterebilir. Bu süre yaklaşık 1 haftayı bulabilir.
+
+2. İade ettiğiniz ürünün ücret iade süreci aşağıdaki gibidir;
+
+• Ürün satıcıya ulaştıktan sonra en geç 48 saat içerisinde iade şartlarına uygunluğu kontrol edilir.
+
+• Ürün iade şartlarına uygunsa, iadeniz onaylanır ve ücret iadeniz bankanıza bağlı olarak 2-10 iş günü içerisinde ödeme yapmış olduğunuz kartınıza yansır.
+
+• Ürün iade şartlarına uygun değilse adresinize geri gönderilir.
+
+
+Not:
+
+• Bankanıza ücret iadesi yapıldığında üyelik e-posta adresinize bilgilendirme mesajı gönderilir. Tutarın kartınıza/hesabınıza yansıma süresi bankanıza bağlıdır.
+
+• Banka kartına yapılan iadenlerin hesabınıza yansıma süresi daha uzundur.
+
+• Bankanızdan ücret iadesi kontrolü yapmak için “Hesabım” > “Siparişlerim“ adımından referans numaranızı görüntüleyebilirsiniz.
+
+• Taksitli yapılan alışverişlerin ücreti bankaya tek seferde ödenir ancak bankanız bu tutarı kredi kartınıza taksitli bir şekilde iade eder.
+
+
+
+15 günlük iade sürem doldu, ürünü iade edebilir miyim?
+• Mesafeli Satış Sözleşmesine göre internetten veya mobilden satın alınan bir ürünü iade etme süresi 15 gündür. 15 günlük süre ürünün size teslim edildiği gün başlar.
+
+
+Not: Eksik/Kusurlu/Yanlış gönderilen ürünlerin iade süresi 30 gündür. Müşteri hizmetlerine ulaşarak iade kodu alabilirsiniz.
+
+
+
+Kampanyadan yararlandığım bir siparişte iptal ya da iade yaparsam kampanya iptal olur mu?
+• İptal ya da iade gerçekleştirildiği halde kampanya koşulları sağlanmaya devam ediyorsa kampanya iptal olmaz.
+
+• İptal ya da iade sonrası siparişte kalan ürünler kampanya şartlarını sağlamaya yetmiyorsa, ücret iadesi, iptal ya da iade edilen ürünler için kampanyadan gelen indirim tutarı düşülerek yapılır.
+
+
+
+Sitenizden alışveriş yapmak güvenli mi?
+Evet. Tamamen güvendesiniz.
+
+
+• trendyol’da en yüksek güvenlik sistemi olan yeşil bar uygulaması bulunmaktadır, 128 bit şifreleme ile iletilen bilgilerin güvenliğini sağlayan SSL Sertifikası kullanılır.
+
+
+• trendyol'da alışveriş yapılırken kullanılan kart bilgileri sizin onayınız olmaz ise kaydedilmez ve kesinlikle üçüncü kişiler tarafından görülemez.
+
+
+
+
+Satılan ürünler orijinal mi?
+• Platformdaki ürünleri satıcılar satışa sunmakta ve listelemektedir. Ürünlerin orijinalliği konusunda Trendyol’un çok ayrıntılı bir tespit ve kontrol süreci bulunmaktadır. Herhangi bir orijinallik süpheli ürün satışta olma şikayeti aldığında trendyol hemen aksiyon alır.
+
+• En üst kalitede ürün sunan saygın tedarikçi ve yetkili firmalarla çalışırız.
+
+Ürünler garanti belgeli ve faturalı olarak satışa sunulur.
+
+• Detaylı bilgi talep etmeniz halinde aşağıdaki iletişim kanallarından bizimle irtibata geçebilirsiniz.
+
+• Detaylı bilgi talep etmeniz halinde aşağıdaki iletişim kanallarından bizimle irtibata geçebilirsiniz. “Hesabım” bölümünde “Yardım” sekmesinde yer alan “Trendyol Asistan” butonu ile bize ulaşabilirsiniz.
+
+
+
+Fiziki mağazanız var mı?
+• Tüm ürünlerimize www.trendyol.com , İOS ve Android uygulamalarımız üzerinden ulaşabilirsiniz.
+
+
+
+Butikler açılmadan önce nasıl haberdar olabilirim?
+• Butiklerimiz sabah 06:00 ve öğleden sonra 16:00 olmak üzere günde 2 kere yenilenir.
+
+
+• Yayındaki butiklerin duyurularını, her sabah yayınladığımız e-bülten ile iletiyoruz.
+
+
+• trendyol‘a kayıtlı e-mail hesabınızı kontrol ederek kampanyalarımızı takip edebilirsiniz.
+
+
+
+Tedarikçi firma bilgilerine nasıl ulaşabilirim?
+• Prosedür gereği tedarikçi firmalarımızın bilgilerini paylaşamıyoruz.
+
+
+
+Ürün değerlendirmesi nedir?
+Trendyol'da kullanıcılarımız ürünlerle ilgili görüşlerini ve deneyimlerini diğer kullanıcıların da faydalanabilmesi için paylaşabilirler. Ürünü satın alan üyelerin yaptığı yorumların yanında Ürünü satın aldı ifadesi bulunur. Kullanıcıların yaptıkları yorumları ve ürünlerin ortalama puanlarını ürün detay sayfasında bulunan Ürün Değerlendirmeleri alanından görebilirsiniz.
+
+
+Dilerseniz Hesabım>Siparişlerim>Detaylar sayfasından ya da ürün detay sayfasındaki Ürünü Değerlendir butonuna tıklayarak ürünleri puanlayabilir ve yorumlarınızı diğer üyelerimizle paylaşabilirsiniz. Yaptığınız yorumlarda adınızın görünmesini istemezseniz, yorum yazdığınız sayfada Yorumlarda adımın görünmesine izin veriyorum kutucuğundaki işareti kaldırabilirsiniz. Yorum ve puanlarınızı düzenlemek isterseniz Siparişlerim sayfasındaki Yorumu Düzenle butonuna tıklayarak düzenleme yapabilirsiniz.
+
+
+
+Ürün değerlendirmelerime nasıl ulaşabilirim?
+Hesabım>Değerlendirmelerim sayfasından geçmişte yaptığınız ürün yorumlarına ulaşabilirsiniz ve dilerseniz sağ köşesinde kalem sembolüne tıklayıp düzenleyebilirsiniz. Dilerseniz yine aynı sayfadan satın almış olduğunuz diğer ürünler için yorumunuzu paylaşabilirsiniz. Değerlendirmelerim sayfasında sadece satın aldığınız ürünlere yaptığınız geçmiş yorumları görüntüleyebilirsiniz.
+
+
+
+Trendyol’daki bazı ürün görsellerinin üzerinde yer alan “Sponsorlu Ürün” etiketi nedir?
+Trendyol'da satıcılarımız daha çok göz önüne çıkartmak istedikleri ürünleri özel olarak “Reklam Yönetimi” panelinden seçebilmektedir.
+
+
+
+Bu ürünler özel olarak fiyatlandırılmış ve satıcılar tarafından seçilmiş ürünlerdir.
+
+
+
+İlgili ürünler satıcılar tarafından belirlenen bir bütçe karşılığında, belirlenen bir tarih aralığında “Sponsorlu Ürün” olarak özel bir etiketle belirtilerek müşterilere sunulmaktadır.
+
+
+
+Bu ürünlerin listeleme sayfalarında sıralanması belirlenmiş bütçe ile orantılı olarak yükseltilmektedir.
+
+
+
+
+
+
+Trendyol’da yer alan “Resmi Satıcı” rozeti ne anlama gelmektedir?
+“Resmi Satıcı” rozeti,
+
+
+Kendi markasına ait mağazası olan, yüksek marka bilinirliği olan, kurumsal bir internet sitesi veya doğrulanmış bir sosyal medya hesabının bulunan mağazalara verilen rozettir.
+
+
+
+Trendyol’da bazı ürün görsellerinin üzerinde yer alan “1, 2 veya 3 Yıldızlı Ürün” etiketleri ne anlama gelmektedir?
+1, 2 veya 3 yıldızlı ürün etiketleri, fiyatları aşağı yönlü hareket eden ürünleri işaret etmektedir. Yıldız sayıları indirim oranları ile doğru orantılı olup etiketler ürün bazlı bir hesaplamayla kazanılır. Bir satıcı satışa sunduğu bir ürününde ilgili şartların tamamını sağlayarak etiketi kazanmışken farklı bir ürününde etiketi kazanmamış olabilir. Bu durumda etiket o satıcının yalnızca etiketi kazandığı ürününde görünecektir. Farklı kategorilerde satışa sunulan farklı markalara sahip ürünler için 1, 2 veya 3 yıldızlı ürün etiketlerinin kazanılacağı fiyatlar farklı hesaplamalarla belirlenmektedir.
+
+
+
+
+Trendyol iletişim bilgilerine nasıl ulaşabilirim?
+Trendyol iletişim bilgileri aşağıda yer almaktadır:
+
+Adres: DSM Grup Danışmanlık İletişim ve Satış Tic. A.Ş.: Maslak Mahallesi, Saat Sokak (Spine Tower), No: 5, İç Kapı No: 19, Sarıyer/İstanbul
+
+Tel: 0 212 331 0 200
+
+Fax: 0 212 332 18 93
+
+Kep Adresi: dsm@hs02.kep.tr
+
+
+
+
+Trendyol Sigorta iletişim bilgilerine nasıl ulaşabilirim?
+Tüm soru ve taleplerin için 0850 955 14 14 numaralı Trendyol Sigorta Müşteri Hizmetleri'ni arayarak destek alabilirsin.
+
+Çalışma Saatlerimiz: Pazartesi-Cumartesi 09:00-18:00
+
+
+
+
+Trendyol Sigorta nasıl kullanılır?
+1) Sigorta ürünlerimizi Trendyol uygulamasından kolayca satın alabilirsin:
+- Trendyol'dan bir ürün satın alırken ürün detay sayfasında Ek Hizmetler başlığı altında sigorta tekliflerimizi inceleyebilirsin. Sepetine sigortalamak istediğin ürünle birlikte sigortayı da ekleyip birlikte satın alabilirsin.
+- Trendyol'dan ürününü sigortalamadan satın aldıktan sonra Trendyol uygulamasında Hesabım menüsü altındaki Trendyol Sigorta'ya tıklayıp ihtiyacına uygun sigorta güvencesini satın alabilirsin.
+- Cep telefonunu Trendyol'dan satın almamış olsan da Trendyol > Hesabım > Trendyol Sigorta'ya gelerek hırsızlık ve ekran kırılmasına karşı kolayca sigortalayabilirsin.
+
+2) Poliçen oluşturulduktan sonra SMS ve e-posta ile sana teslim edilir. Sigorta teminatın poliçende gösterilen başlangıç tarihinden itibaren geçerli olur.
+
+3) Tüm soruların için ve sigortaladığın ürünün hasarlanması durumunda 0850 955 14 14 numaralı Trendyol Sigorta Müşteri Hizmetleri'ne ulaşabilirsin.
+
+
+sigorta için şikayet ve görüşlerimi nasıl iletebilirim?
+Şikayetinle ilgili destek almak ve deneyimine dair görüşlerini paylaşmak için 0850 955 14 14 numaralı Trendyol Sigorta Müşteri Hizmetleri'ni arayarak bize ulaşabilirsin. Süreçlerimizi geliştirirken kullanıcılarımızın geri bildirimleri doğrultusunda çalışıyoruz, katkın için teşekkür ederiz.
+
+Çalışma Saatlerimiz: Pazartesi-Cumartesi 09:00-18:00
